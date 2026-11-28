@@ -1,27 +1,44 @@
-<h1 align="center">Hi 👋, I'm Ikram khan</h1>
-<h3 align="center">Electrical Engineering (Communication) student @ UET Peshawar | C++ | Learning Python</h3>
+<h1 align="center">Hi 👋, I'm Ikram Khan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ikramkhan112321&label=Profile%20views&color=0e75b6&style=flat" alt="ikramkhan112321" /> </p>
-
-- 🔭 I’m currently working on **Learning Python for engineering applications**
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **C++, MATLAB, Proteus, Keil and AutoCAD basics**
-
-- 📫 How to reach me **ikramkhan112321@gmail.com**
-
-- ⚡ Fun fact **I enjoy understanding how communication systems work**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/ikramkhan112321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="ikramkhan112321" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/ikram-khan-1a852b280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikram-khan-1a852b280" height="30" width="30" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Electrical+Engineering+(Communication)+Student;5th+Semester+%7C+UET+Peshawar;C%2B%2B+%7C+MATLAB+%7C+Learning+Python" alt="Typing animation" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  🎓 BS Electrical Engineering (Communication), 5th Semester<br>
+  🏫 University of Engineering and Technology Peshawar, Jalozai Campus
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikramkhan112321&show_icons=true&locale=en" alt="ikramkhan112321" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ikramkhan112321&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikramkhan112321&" alt="ikramkhan112321" /></p>
+---
+
+## 👨‍💻 About Me
+
+I am an Electrical Communication Engineering student at UET Peshawar, Jalozai Campus. I enjoy understanding how communication systems work, and I am building my programming skills alongside my engineering coursework.
+
+- 🔭 Currently working on **learning Python for engineering applications**
+- 🌱 Currently learning **Python, OOP and Data Structures**
+- 💬 Ask me about **C++, MATLAB, Proteus, Keil and AutoCAD basics**
+- ⚡ Fun fact: I enjoy understanding how communication systems work
+
+> ⚡ *Where electrical engineering meets software.*
+
+---
+
+## 🛠️ Languages and Tools
+
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+<p>
+  <img src="https://img.shields.io
